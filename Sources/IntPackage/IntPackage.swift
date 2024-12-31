@@ -8,6 +8,6 @@ public class Greeting {
     public init() { }
     
     public func greetUser() -> String {
-        return "Hello user, i am greeting you from swift"
+        return "Hello user, i am greeting you from swift" 
     }
 }
